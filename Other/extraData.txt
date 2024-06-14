@@ -1,0 +1,10 @@
+### My sequence
+i wanna do a website for users to find nearest pharmacy to his location or give the opened pharmacies now and search for night or day or sunday wokring pharmacies and each pharmacy has its own contact num tel or website
+im thinking about making every pharmacy shows it available medicines and its place with google map
+
+### most important features
+- ta3rf biha lpharmacieet lma7louliin fl wa9t adheka 
+- ta3rf biha lpharmacieet li y7ellou nhar la7ad
+- ta3rf biha lpharmacieet li ye5dmou lgayla 
+- talgua fiha lcontact ta3 koll pharmacie (num tel, website...)
+- ta3rf biha blayess lpharmacieet
